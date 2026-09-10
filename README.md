@@ -56,22 +56,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imightjustbekeker&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Prince's Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imightjustbekeker&theme=radical&hide_border=true" alt="Prince's Streak" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imightjustbekeker&theme=radical&hide_border=true" alt="Prince's Streak" width="100%"/>
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imightjustbekeker&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
-### 💡 Quotes & Jokes
-
-<div align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/api?theme=radical" alt="Dev Quote" />
-  <br /><br />
-  <img src="https://readme-jokes-three.vercel.app/api?theme=radical&hideBorder" alt="Tech Joke" />
-</div>
