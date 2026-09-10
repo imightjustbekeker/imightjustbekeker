@@ -1,7 +1,15 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=header&text=Prince's%20Dev%20Space&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%" />
+
 <div align="center">
   <h1>Hi 👋, I'm Prince</h1>
-  <h3>A Passionate Web Developer</h3>
-  
+
+  <!-- Dynamic Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=0E75B6&center=true&vcenter=true&width=435&lines=Web+Developer;Game+Dev+Enthusiast;Cybersecurity+Learner;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+
+  <br /><br />
+
   <!-- Contribution Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imightjustbekeker/imightjustbekeker/output/github-contribution-grid-snake-dark.svg">
@@ -9,14 +17,22 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imightjustbekeker/imightjustbekeker/output/github-contribution-grid-snake.svg">
   </picture>
 
-  <br />
+  <br /><br />
 
   <img src="https://komarev.com/ghpvc/?username=imightjustbekeker&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
   <br /><br />
 
+  <!-- Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=imightjustbekeker&theme=radical&no-frame=true&row=1&margin-w=15" alt="Trophies" />
+  </a>
+
+  <br /><br />
+
+  <!-- Spotify Currently Playing -->
+  <a href="https://spotify-github-readme.vercel.app/api/spotify-playing">
+    <img src="https://spotify-github-readme.vercel.app/api/spotify-playing" alt="Spotify Playing" />
   </a>
 </div>
 
@@ -47,11 +63,10 @@
 ### 🛠️ Languages and Tools
 
 <div align="center">
-  <!-- Skillicons generates a beautiful, responsive grid automatically -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,svelte,nodejs,express,php,mongodb,mysql,postgres,python,c,cs,go,java,rust,unity,linux,photoshop,illustrator&perline=12" alt="Prince's Tech Stack" />
 </div>
 
-<br />
+---
 
 ### 📊 GitHub Stats
 
@@ -64,4 +79,14 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imightjustbekeker&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### 💡 Quotes & Jokes
+
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/api?theme=radical" alt="Dev Quote" />
+  <br /><br />
+  <img src="https://readme-jokes-three.vercel.app/api?theme=radical&hideBorder" alt="Tech Joke" />
 </div>
